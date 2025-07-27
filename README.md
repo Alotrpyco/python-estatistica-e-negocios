@@ -18,7 +18,7 @@ Capacitar os participantes a utilizar Python como ferramenta para análise de da
 ---
 
 ## :open_file_folder: Organização do Repositório
-python-estatistica-e-negocios/
+
 
 
   
