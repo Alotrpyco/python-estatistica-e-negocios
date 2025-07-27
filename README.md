@@ -20,7 +20,7 @@ Capacitar os participantes a utilizar Python como ferramenta para análise de da
 
 ## :open_file_folder: Organização do Repositório
 
-
+---
 ## :statue_of_liberty: Autor
 
 **Sérgio Ricardo Vieira Torres Silva**  
