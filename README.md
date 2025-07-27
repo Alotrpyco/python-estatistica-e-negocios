@@ -1,4 +1,4 @@
-#Curso em andamento
+#  Curso em andamento
 
 # :bar_chart: Curso: Python para Iniciantes com Aplicações em Economia, Contabilidade e Administração
 
