@@ -18,8 +18,11 @@ Capacitar os participantes a utilizar Python como ferramenta para análise de da
 ---
 
 ## :open_file_folder: Organização do Repositório
+
 :open_file_folder: Exercícios/
-    :one: Exercício_1.py
-    :one: Exercício_1.v1.py
+
+:one: Exercício_1.py
+
+:one: Exercício_1.v1.py
   
 
