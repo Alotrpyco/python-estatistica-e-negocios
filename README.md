@@ -18,11 +18,11 @@ Capacitar os participantes a utilizar Python como ferramenta para análise de da
 ---
 
 ## :open_file_folder: Organização do Repositório
+python-estatistica-e-negocios/
+├── Arquivos Exercícios  
+|   ├── Exercício_1.py
+|   └── Exercício_1.v1.py 
 
-:open_file_folder: Exercícios/
 
-:one: Exercício_1.py
-
-:one: Exercício_1.v1.py
   
 
