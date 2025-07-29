@@ -1,5 +1,5 @@
 # Declarando variáveis
-# valores valores criados da minha imaginação
+# valores em R$ criados da minha imaginação
 
 produto1 = 'creatina'
 preço_de_custo_produto1 = 25
