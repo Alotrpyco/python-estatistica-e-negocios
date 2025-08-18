@@ -4,10 +4,6 @@
 
 Este repositório reúne os materiais, códigos, exercícios e projetos desenvolvidos durante o curso de Python, ministrado pelo professor Adhemar Ranciaro ([Lattes](http://lattes.cnpq.br/7967232324656426)), com foco em aplicações práticas em Economia, Contabilidade e Administração. O curso é voltado a estudantes e profissionais da área de negócios, mesmo sem experiência em programação.
 
----
-
-## :blue_book: Visualização
-
 :bookmark_tabs: [Clique aqui para acessar a ementa do curso ministrado pelo professor Adhemar Raciaro](EmentaDoCurso.pdf)
 
 ---
