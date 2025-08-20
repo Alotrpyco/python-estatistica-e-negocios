@@ -7,6 +7,7 @@ Este repositório reúne os materiais, códigos, exercícios e projetos desenvol
 :bookmark_tabs: [Clique aqui para acessar a ementa do curso ministrado pelo professor Adhemar Raciaro](pdf's)
 
 :computer:[Clique aqui para acessar a conograma do curso ministrado pelo professor Adhemar Raciaro](pdf's/Cronograma_do_curso.pdf)
+
 ---
 
 ## :dart: Objetivo do Curso
