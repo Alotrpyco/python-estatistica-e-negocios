@@ -2,9 +2,11 @@
 
 # :bar_chart: Curso: Python para Iniciantes com Aplicações em Economia, Contabilidade e Administração
 
-Este repositório reúne os materiais, códigos, exercícios e projetos desenvolvidos durante o curso de Python, ministrado pelo professor Adhemar Ranciaro ([Lattes](http://lattes.cnpq.br/7967232324656426)), com foco em aplicações práticas em Economia, Contabilidade e Administração. O curso é voltado a estudantes e profissionais da área de negócios, mesmo sem experiência em programação.
+Este repositório reúne os materiais, códigos, exercícios e projetos desenvolvidos durante o curso de Python, ministrado pelo professor Adhemar Ranciaro Neto ([Lattes](http://lattes.cnpq.br/7967232324656426)), com foco em aplicações práticas em Economia, Contabilidade e Administração. O curso é voltado a estudantes e profissionais da área de negócios, mesmo sem experiência em programação.
 
-:bookmark_tabs: [Clique aqui para acessar a ementa do curso ministrado pelo professor Adhemar Raciaro](EmentaDoCurso.pdf)
+:bookmark_tabs: [Clique aqui para acessar a ementa do curso ministrado pelo professor Adhemar Raciaro](pdf's)
+
+:computer: [Clique aqui para acessar o conograma do curso ministrado pelo professor Adhemar Raciaro](pdf's/Cronograma_do_curso.pdf)
 
 ---
 
