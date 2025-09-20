@@ -62,15 +62,14 @@ Capacitar os participantes a utilizar Python como ferramenta para análise de da
 │   └── f - atividade
 │       ├── f.1 - Estatistica_Pandas.ipynb
 │       └── f.2 - Visualizacao_Completa.ipynb
-├── 6.Projeto final
-│   └── 6ª Semana
-│       ├── g.1 - Diretrizes_do_projeto.ipynb
-│       └── g.2 - Projeto_finall.ipynb
 ├── LICENSE
-└── README.md
-
+├── README.md
+└── projeto final
+    ├── g.1 - Diretrizes_do_projeto.ipynb
+    └── g.2 - Projeto_final.ipynb
+    
 ```
-# :chart_with_upwards_trend: [Clique aqui para acessar o projeto final.](6.Projeto_final/6.Projeto_final/6a_Semana/g2_Projeto_final.ipynb)
+# :chart_with_upwards_trend: [Clique aqui para acessar o projeto final.](projeto final/g.2 - Projeto_final.ipynb)
 ---
 ## :statue_of_liberty: Autor
 
