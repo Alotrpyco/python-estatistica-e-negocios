@@ -69,7 +69,7 @@ Capacitar os participantes a utilizar Python como ferramenta para análise de da
     └── g.2 - Projeto_final.ipynb
 
 ```
-# :chart_with_upwards_trend: [Clique aqui para acessar o projeto final.](projeto final/g.2 - Projeto_final.ipynb)
+# :chart_with_upwards_trend: [Clique aqui para acessar o projeto final.](projeto final/g.2_Projeto_final.ipynb)
 ---
 ## :statue_of_liberty: Autor
 
