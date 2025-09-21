@@ -62,11 +62,11 @@ Capacitar os participantes a utilizar Python como ferramenta para análise de da
 │   └── f - atividade
 │       ├── f.1 - Estatistica_Pandas.ipynb
 │       └── f.2 - Visualizacao_Completa.ipynb
+├── 6.projeto.final
+│   ├── g.1_Diretrizes_do_projeto.ipynb
+│   └── g.2_Projeto_final.ipynb
 ├── LICENSE
-├── README.md
-└── projeto final
-    ├── g.1 - Diretrizes_do_projeto.ipynb
-    └── g.2 - Projeto_final.ipynb
+└── README.md
 
 ```
 ---
