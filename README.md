@@ -74,10 +74,14 @@ Capacitar os participantes a utilizar Python como ferramenta para análise de da
 
 ## :chart_with_upwards_trend: [Clique aqui para acessar o projeto final.](6.projeto.final/g_2_Projeto_final.ipynb)
 
-## :statue_of_liberty: Autor
+## :statue_of_liberty: Autor:
 
-**Sérgio Ricardo Vieira Torres Silva**  
-[![Lattes](https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=read.cv&logoColor=white)](http://lattes.cnpq.br/6028108290396877)  [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sergio.torres@feac.ufal.br)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergioricardo-me)  
+**Sérgio Ricardo Vieira Torres Silva**      
+[![Lattes](https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=read.cv&logoColor=white)](http://lattes.cnpq.br/6028108290396877)  [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sergio.torres@feac.ufal.br)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergioricardo-me) 
+
+Vamos jogar um DUO?
+
+[![LoL](https://img.shields.io/badge/LoL-Alotrópico-000000?style=for-the-badge&logo=leagueoflegends&logoColor=FFD700)](https://br.op.gg/summoner/userName=Alotrópico)
 
   
 
